@@ -28,8 +28,8 @@ argS should be used at the start of argument lists.
 argE should be used at the end of argument lists.
 
 ```c
-num increment argS num *n argE run
-  ret inc n endl
+num plusOne argS num n argE run
+  ret n plus 1 endl
 end
 ```
 
