@@ -1,5 +1,5 @@
 # What is ec?
-Eso-C, Easy C, or EC, is a custom syntax "library" for C/C++.
+Eso-C, or EC, is a custom syntax "library" for C/C++.
 
 EC basically turns C/C++ into an esoteric programming language.
 
